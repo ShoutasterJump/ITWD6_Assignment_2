@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/test-react-app/static/css/main.779737bc.css",
-    "main.js": "/test-react-app/static/js/main.62cad060.js",
+    "main.js": "/test-react-app/static/js/main.83cae51d.js",
     "static/js/453.3c3c57d0.chunk.js": "/test-react-app/static/js/453.3c3c57d0.chunk.js",
     "static/media/slick.svg": "/test-react-app/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/test-react-app/static/media/slick.a4e97f5a2a64f0ab1323.eot",
@@ -9,11 +9,11 @@
     "static/media/slick.woff": "/test-react-app/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/test-react-app/index.html",
     "main.779737bc.css.map": "/test-react-app/static/css/main.779737bc.css.map",
-    "main.62cad060.js.map": "/test-react-app/static/js/main.62cad060.js.map",
+    "main.83cae51d.js.map": "/test-react-app/static/js/main.83cae51d.js.map",
     "453.3c3c57d0.chunk.js.map": "/test-react-app/static/js/453.3c3c57d0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.779737bc.css",
-    "static/js/main.62cad060.js"
+    "static/js/main.83cae51d.js"
   ]
 }
